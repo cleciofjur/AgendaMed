@@ -86,11 +86,10 @@ Abra o arquivo `index.html` no navegador.
 
 ## 🔮 Melhorias Futuras
 
-- 🔐 Controle de níveis de acesso (Admin, Médico, Paciente)
+- 🔐 Controle de níveis de acesso (Admin, Médico)
 - 🗓️ Painel administrativo para UBS
 - 📊 Relatórios de atendimento
 - 🌐 Integração com banco de dados
-- 📱 Transformação em PWA
 
 ---
 
